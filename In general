@@ -1,0 +1,301 @@
+نصوص برمجة  لموقع "تطبيق باجمال أونلاين" يتكون من 6 صفحات، بما في ذلك صفحة مقدمة، وصفحة عن الخدمات، وصفحة عن التطبيق، وصفحة عن مميزات التطبيق، وصفحة عن التواصل، وصفحة عن الشروط والأحكام.
+
+▎1. الصفحة الرئيسية (index.html)
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تطبيق باجمال أونلاين</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">باجمال أونلاين</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">الرئيسية</a></li>
+                <li><a href="services.html">خدماتنا</a></li>
+                <li><a href="about.html">عن التطبيق</a></li>
+                <li><a href="contact.html">اتصل بنا</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="banner">
+        <img src="banner.jpg" alt="تطبيق باجمال أونلاين">
+        <h1>مرحباً بك في تطبيق باجمال أونلاين للخدمات المالية الإلكترونية!</h1>
+        <a href="login.html" class="cta-button">ابدأ الآن</a>
+    </section>
+
+    <footer>
+        <p>© 2023 تطبيق باجمال أونلاين. جميع الحقوق محفوظة.</p>
+    </footer>
+</body>
+</html>
+
+
+▎2. صفحة الخدمات (services.html)
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>خدماتنا - تطبيق باجمال أونلاين</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">باجمال أونلاين</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">الرئيسية</a></li>
+                <li><a href="services.html">خدماتنا</a></li>
+                <li><a href="about.html">عن التطبيق</a></li>
+                <li><a href="contact.html">اتصل بنا</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="services">
+        <h2>خدماتنا المميزة</h2>
+        <ul>
+            <li>شحن فوري لجميع شبكات الاتصالات 📶🔋</li>
+            <li>شحن الألعاب والبطاقات الإلكترونية 🎮🎟️</li>
+            <li>تسديد الفواتير والمتطلبات المالية 💡💰</li>
+            <li>تسديد يمن فورجي 🧾💵</li>
+            <li>تسديد الإنترنت والخط الأرضي 🌐📞</li>
+            <li>باقات مخفضة للمناطق الجنوبية 🚩💸</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2023 تطبيق باجمال أونلاين. جميع الحقوق محفوظة.</p>
+    </footer>
+</body>
+</html>
+
+
+▎3. صفحة عن التطبيق (about.html)
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>عن التطبيق - تطبيق باجمال أونلاين</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">باجمال أونلاين</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">الرئيسية</a></li>
+                <li><a href="services.html">خدماتنا</a></li>
+                <li><a href="about.html">عن التطبيق</a></li>
+                <li><a href="contact.html">اتصل بنا</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="about">
+        <h2>عن تطبيق باجمال أونلاين</h2>
+        <p>تطبيق باجمال أونلاين هو الحل المثالي لجميع احتياجاتك المالية. نقدم لك خدمات سريعة وسهلة تتيح لك شحن رصيدك، تسديد الفواتير، والتمتع بعروض خاصة. نحن هنا لنساعدك على إدارة أموالك بذكاء وسهولة.</p>
+        <p>لا تفوت الفرصة! قم بتحميل التطبيق الآن من خلال الرابط التالي: 
+            <a href="https://play.google.com/store/apps/details?id=bjonline.yemoney" target="_blank">تحميل التطبيق</a>.
+        </p>
+    </section>
+
+    <footer>
+        <p>© 2023 تطبيق باجمال أونلاين. جميع الحقوق محفوظة.</p>
+    </footer>
+</body>
+</html>
+
+
+▎4. صفحة مميزات التطبيق (features.html)
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مميزات التطبيق - تطبيق باجمال أونلاين</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+
+▎4. صفحة مميزات التطبيق (features.html)
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مميزات التطبيق - تطبيق باجمال أونلاين</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">باجمال أونلاين</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">الرئيسية</a></li>
+                <li><a href="services.html">خدماتنا</a></li>
+                <li><a href="about.html">عن التطبيق</a></li>
+                <li><a href="contact.html">اتصل بنا</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="features">
+        <h2>مميزات تطبيق باجمال أونلاين</h2>
+        <ul>
+            <li>واجهة مستخدم بسيطة وسهلة الاستخدام 🖥️</li>
+            <li>أمان وحماية عالية لمعلوماتك الشخصية 🔒</li>
+            <li>تحديثات دورية لتحسين الأداء 🔄</li>
+            <li>دعم فني متاح على مدار الساعة 📞</li>
+            <li>عروض وخصومات حصرية للمستخدمين 🎉</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2023 تطبيق باجمال أونلاين. جميع الحقوق محفوظة.</p>
+    </footer>
+</body>
+</html>
+
+
+▎5. صفحة التواصل (contact.html)
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>اتصل بنا - تطبيق باجمال أونلاين</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">باجمال أونلاين</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">الرئيسية</a></li>
+                <li><a href="services.html">خدماتنا</a></li>
+                <li><a href="about.html">عن التطبيق</a></li>
+                <li><a href="contact.html">اتصل بنا</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="contact">
+        <h2>اتصل بنا</h2>
+        <p>إذا كان لديك أي استفسارات أو ملاحظات، لا تتردد في التواصل معنا عبر المعلومات التالية:</p>
+        <ul>
+            <li>البريد الإلكتروني: support@bajmalonline.com</li>
+            <li>رقم الهاتف: +1234567890</li>
+            <li>عنوان المكتب: شارع الحرية، صنعاء، اليمن</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2023 تطبيق باجمال أونلاين. جميع الحقوق محفوظة.</p>
+    </footer>
+</body>
+</html>
+
+
+▎6. صفحة الشروط والأحكام (terms.html)
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>الشروط والأحكام - تطبيق باجمال أونلاين</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">باجمال أونلاين</div>
+        <nav>
+            <ul>
+                <li><a href="index.html">الرئيسية</a></li>
+                <li><a href="services.html">خدماتنا</a></li>
+                <li><a href="about.html">عن التطبيق</a></li>
+                <li><a href="contact.html">اتصل بنا</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="terms">
+        <h2>الشروط والأحكام</h2>
+        <p>يرجى قراءة الشروط والأحكام التالية بعناية قبل استخدام تطبيق باجمال أونلاين:</p>
+        <ol>
+            <li>يجب أن تكون جميع المعلومات المقدمة دقيقة وصحيحة.</li>
+            <li>يحق لنا تعديل أو إلغاء أي من خدماتنا في أي وقت.</li>
+            <li>نحن نلتزم بحماية خصوصيتك ولن نشارك معلوماتك مع أطراف ثالثة دون إذن منك.</li>
+            <li>باستخدامك للتطبيق، فإنك توافق على الالتزام بهذه الشروط.</li>
+        </ol>
+    </section>
+
+    <footer>
+        <p>© 2023 تطبيق باجمال أونلاين. جميع الحقوق محفوظة.</p>
+    </footer>
+</body>
+</html>
+
+
+▎ملفات CSS (styles.css)
+
+يمكنك إضافة ملف CSS لتحسين تصميم الصفحات. إليك مثال بسيط لملف CSS:
+
+body {
+    font-family: Arial, sans-serif;
+    direction: rtl;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+.logo {
+    font-size: 24px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.cta-button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    
